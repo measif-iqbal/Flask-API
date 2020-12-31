@@ -1,4 +1,6 @@
 #!/usr/bin/python3
 import sys
-print(sys.path)
+x=sys.path
+for path_ in x:
+  print(x)
 
