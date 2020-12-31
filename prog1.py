@@ -2,5 +2,5 @@
 import sys
 x=sys.path
 for path_ in x:
-  print(x)
+  print(path_)
 
